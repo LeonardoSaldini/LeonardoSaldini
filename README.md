@@ -4,11 +4,13 @@
 
 ### Web Application Pentesting · Offensive Security
 
-**Analista de TI em transição para segurança ofensiva. Base em suporte técnico, SQL e desenvolvimento, foco em entender como aplicações quebram e como corrigi-las.**
+🇺🇸 **IT analyst transitioning into offensive security. Background in technical support, SQL and development, focused on understanding how applications break and how to fix them.**
+
+🇧🇷 **Analista de TI em transição para segurança ofensiva. Base em suporte técnico, SQL e desenvolvimento, com foco em entender como aplicações quebram e como corrigi-las.**
 
 <p>
-  <img src="https://img.shields.io/badge/FOCO-PENTEST%20WEB-b91c1c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BASE-DESENVOLVIMENTO%20%26%20SUPORTE-252525?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS%20%2F%20FOCO-WEB%20PENTESTING-b91c1c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BASE-DEVELOPMENT%20%26%20SUPPORT-252525?style=for-the-badge" />
 </p>
 
 <p>
@@ -24,35 +26,40 @@
 
 ---
 
-## 👋 Sobre mim
+## 👋 About me / Sobre mim
 
-Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** e tenho mais de 3 anos de experiência em suporte técnico pleno, investigação de falhas em aplicações corporativas, SQL e testes funcionais. Hoje sou Analista de Suporte Pleno na **Citel Software**.
+🇺🇸 I hold a degree in **Systems Analysis and Development** and have over 3 years of experience in technical support, troubleshooting corporate applications, SQL and functional testing. I currently work as a Support Analyst at **Citel Software**.
 
-Meu objetivo é atuar com **Pentest Web e Segurança Ofensiva**. Estudo na prática, com laboratórios, pesquisa de vulnerabilidades e relatórios técnicos. A experiência com análise de logs, banco de dados e causa raiz de problemas me ajuda a entender o impacto real de uma falha e como mitigá-la.
+My goal is to work in **Web Application Penetration Testing and Offensive Security**. I build practical skills through hands-on labs, vulnerability research and technical reports. My background in log analysis, databases and root-cause investigation helps me understand the real impact of a vulnerability and how to mitigate it.
+
+I also build websites and applications, which gives me both the builder's and the attacker's perspective.
+
+🇧🇷 Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** e tenho mais de 3 anos de experiência em suporte técnico, investigação de falhas em aplicações corporativas, SQL e testes funcionais. Atualmente sou Analista de Suporte Pleno na **Citel Software**.
+
+Meu objetivo é atuar com **Pentest Web e Segurança Ofensiva**. Desenvolvo minhas habilidades na prática, com laboratórios, pesquisa de vulnerabilidades e relatórios técnicos. A experiência com análise de logs, banco de dados e causa raiz me ajuda a entender o impacto real de uma falha e como mitigá-la.
 
 Também desenvolvo sites e aplicações, o que me dá a visão de quem constrói e de quem ataca.
 
-> 🇺🇸 **English:** IT analyst with a background in technical support, SQL and software testing, moving into **Web Application Penetration Testing**. I build hands-on skills through labs, vulnerability research and technical reporting, and I also develop web projects. English level: B2.
-
 ---
 
-## 🔴 Segurança ofensiva
+## 🔴 Offensive Security / Segurança Ofensiva
 
-| Área | O que estudo e pratico |
+| Area / Área | What I study and practice / O que estudo e pratico |
 |---|---|
-| **Vulnerabilidades web** | OWASP Top 10, SQL Injection, XSS, CSRF, IDOR e Broken Access Control |
-| **Autenticação** | Gerenciamento de sessão, cookies e controle de acesso |
-| **Reconhecimento** | Enumeração com Nmap, Gobuster e Dirsearch |
-| **Phishing e engenharia social** | Simulações em ambiente controlado com Gophish e BeEF |
-| **Relatórios** | Metodologia, evidências, classificação de risco e recomendações de mitigação |
+| **Web vulnerabilities / Vulnerabilidades web** | OWASP Top 10, SQL Injection, XSS, CSRF, IDOR, Broken Access Control |
+| **Authentication / Autenticação** | Session management, cookies, access control / Sessões, cookies e controle de acesso |
+| **Reconnaissance / Reconhecimento** | Nmap, Gobuster, Dirsearch |
+| **Phishing & social engineering / Engenharia social** | Controlled simulations with Gophish and BeEF / Simulações controladas com Gophish e BeEF |
+| **Reporting / Relatórios** | Methodology, evidence, risk rating, remediation / Metodologia, evidências, classificação de risco e mitigação |
 
-**Plataformas de prática:** TryHackMe · Hack The Box · laboratórios próprios
+**Practice platforms / Plataformas de prática:** TryHackMe · Hack The Box · own labs / laboratórios próprios
 
-> Todos os testes são feitos apenas em ambientes autorizados e de treinamento.
+> 🇺🇸 All testing is performed only in authorized and training environments.
+> 🇧🇷 Todos os testes são feitos apenas em ambientes autorizados e de treinamento.
 
 ---
 
-## 🛠️ Ferramentas e tecnologias
+## 🛠️ Tools & Technologies / Ferramentas e Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -70,57 +77,73 @@ Também desenvolvo sites e aplicações, o que me dá a visão de quem constrói
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-**Redes:** TCP/IP, DNS, HTTP/HTTPS, DHCP, Modelo OSI
+**Networking / Redes:** TCP/IP, DNS, HTTP/HTTPS, DHCP, OSI Model / Modelo OSI
 
 ---
 
-## 💼 Experiência
+## 💼 Experience / Experiência
 
-- **Analista de Suporte Pleno — Citel Software** (03/2026 – atual): análise de incidentes, troubleshooting em aplicações corporativas, testes funcionais e consultas SQL.
-- **Consultor SAP Business One — Lago Consultoria** (09/2025 – 03/2026): implantação, suporte funcional e treinamento de usuários.
-- **Analista de Suporte Pleno — OuroWeb** (10/2023 – 09/2025): diagnóstico de falhas, SQL (tabelas, views e procedures), análise de logs e testes funcionais.
+- **Support Analyst (Mid-level) / Analista de Suporte Pleno — Citel Software** (03/2026 – present / atual)
+  🇺🇸 Incident analysis with Zendesk, troubleshooting corporate applications, functional testing and SQL queries.
+  🇧🇷 Análise de incidentes no Zendesk, troubleshooting em aplicações corporativas, testes funcionais e consultas SQL.
 
----
+- **SAP Business One Consultant / Consultor SAP — Lago Consultoria** (09/2025 – 03/2026)
+  🇺🇸 Implementation, functional support and user training.
+  🇧🇷 Implantação, suporte funcional e treinamento de usuários.
 
-## 🚀 Projetos
-
-### 💻 Desenvolvimento web
-
-- **[Diniz Paisagismo — Site](https://diniz-paisagismo-site.vercel.app/)**: site institucional para apresentação de serviços de paisagismo, com galeria visual e contato direto. Publicado na Vercel.
-- **[Diniz Paisagismo — Código-fonte](https://github.com/LeonardoSaldini/Diniz-Paisagismo_Site)**: repositório do projeto.
-
-### 🔐 Segurança (em publicação)
-
-Estou organizando em repositórios próprios o material dos meus estudos:
-
-- **Relatórios de pentest web**: relatórios de laboratórios autorizados, com metodologia, evidências, impacto e remediação.
-- **Laboratórios de segurança web**: estudos práticos de SQLi, XSS, CSRF e controle de acesso.
-- **Python para pentesters**: scripts de automação para apoiar testes de segurança.
-
-<!-- Quando publicar cada repositório, troque os itens acima por links, por exemplo:
-- **[Relatórios de Pentest](https://github.com/LeonardoSaldini/NOME-DO-REPO)**: descrição -->
+- **Support Analyst (Mid-level) / Analista de Suporte Pleno — OuroWeb** (10/2023 – 09/2025)
+  🇺🇸 Failure diagnosis, SQL (tables, views and procedures), log analysis and functional testing.
+  🇧🇷 Diagnóstico de falhas, SQL (tabelas, views e procedures), análise de logs e testes funcionais.
 
 ---
 
-## 🎓 Formação e certificações
+## 🚀 Projects / Projetos
 
-- Tecnólogo em Análise e Desenvolvimento de Sistemas — Universidade de Franca
-- Formação em Cibersegurança — Hackers do Bem
+### 💻 Web Development / Desenvolvimento Web
+
+- **[Diniz Paisagismo — Website](https://diniz-paisagismo-site.vercel.app/)**
+  🇺🇸 Corporate website presenting landscaping services, with a visual gallery and direct contact. Deployed on Vercel.
+  🇧🇷 Site institucional de serviços de paisagismo, com galeria visual e contato direto. Publicado na Vercel.
+- **[Diniz Paisagismo — Source Code / Código-fonte](https://github.com/LeonardoSaldini/Diniz-Paisagismo_Site)**
+
+### 🔐 Security (being published) / Segurança (em publicação)
+
+🇺🇸 I am organizing my study material into dedicated repositories:
+- **Web pentest reports:** authorized-lab reports with methodology, evidence, impact and remediation.
+- **Web security labs:** hands-on studies of SQLi, XSS, CSRF and access control.
+- **Python for pentesters:** automation scripts to support security testing.
+
+🇧🇷 Estou organizando o material dos meus estudos em repositórios próprios:
+- **Relatórios de pentest web:** relatórios de laboratórios autorizados, com metodologia, evidências, impacto e remediação.
+- **Laboratórios de segurança web:** estudos práticos de SQLi, XSS, CSRF e controle de acesso.
+- **Python para pentesters:** scripts de automação para apoiar testes de segurança.
+
+<!-- Quando publicar cada repositório, troque os itens acima por links / When each repo is published, replace the items above with links:
+- **[Pentest Reports](https://github.com/LeonardoSaldini/NOME-DO-REPO)**: description -->
+
+---
+
+## 🎓 Education & Certifications / Formação e Certificações
+
+- Associate degree in Systems Analysis and Development / Tecnólogo em Análise e Desenvolvimento de Sistemas — Universidade de Franca
+- Cybersecurity Training / Formação em Cibersegurança — Hackers do Bem
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: Power Platform Fundamentals
 - Cyber Security 101 — TryHackMe
-- Introduction to Cybersecurity e Networking Basics — Cisco
+- Introduction to Cybersecurity & Networking Basics — Cisco
 - Linux Fundamentals — DIO
+
+**Languages / Idiomas:** Portuguese / Português (native / nativo) · English / Inglês (B2)
 
 ---
 
-## 📚 Estudando agora
+## 📚 Currently Learning / Estudando agora
 
 - OWASP Web Security Testing Guide (WSTG)
-- Segurança de APIs
-- HTTP, cookies, sessões e controle de acesso
-- Python para automação em segurança
-- Escrita de relatórios técnicos de vulnerabilidades
+- API security / Segurança de APIs
+- HTTP, cookies, sessions and access control / HTTP, cookies, sessões e controle de acesso
+- Python for security automation / Python para automação em segurança
+- Technical vulnerability reporting / Escrita de relatórios técnicos de vulnerabilidades
 
 ---
 
