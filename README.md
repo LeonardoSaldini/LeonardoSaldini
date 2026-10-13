@@ -104,7 +104,6 @@ Também desenvolvo sites e aplicações, o que me dá a visão de quem constrói
 - **[Diniz Paisagismo — Website](https://diniz-paisagismo-site.vercel.app/)**
   🇺🇸 Corporate website presenting landscaping services, with a visual gallery and direct contact. Deployed on Vercel.
   🇧🇷 Site institucional de serviços de paisagismo, com galeria visual e contato direto. Publicado na Vercel.
-- **[Diniz Paisagismo — Source Code / Código-fonte](https://github.com/LeonardoSaldini/Diniz-Paisagismo_Site)**
 
 ### 🔐 Security (being published) / Segurança (em publicação)
 
